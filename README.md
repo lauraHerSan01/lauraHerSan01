@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola soy Laura Hernandez (lauraHerSan01) 👋
 
-<!--
-**lauraHerSan01/lauraHerSan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📜TSU Area de Desarrollo de Software Multiplataforma
+💻Estudiante de Ingenieria 
 
-Here are some ideas to get you started:
+## Sobre mi :D
+Soy apasionada por la programación, el diseño de software y las soluciones tecnológicas que impactan positivamente a las personas. Actualmente me encuentro fortaleciendo mis habilidades en el desarrollo multiplataforma, creando proyectos que integran tecnologías web, móviles y de escritorio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🛠  Herramientas que manejo
+Github
+Figma
+Visual Studio Code
+Mondo DB
+Python
+Mobirise
+
+## 🚀 Objetivo
+Seguir desarrollando proyectos que reflejen mi crecimiento como desarrollador y aportar soluciones útiles en entornos reales. Estoy abierto a colaboraciones, proyectos escolares, prácticas profesionales o freelance.
+
+##  📫 Contactame 
+Correo: hernandez.sandoval.laura@gmail.com
+
+⭐ ¡Gracias por visitar mi perfil!
